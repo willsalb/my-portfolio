@@ -1,5 +1,5 @@
 import React from "react";
-import Intro from "./components/Intro";
+import { Intro } from "./components/Intro";
 import { Footer } from "./components/Footer";
 import { Contact } from "./components/Contact";
 import { Timeline } from "./components/Timeline";
